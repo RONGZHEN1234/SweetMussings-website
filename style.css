@@ -146,6 +146,17 @@ section{
 }
 
 #menu-btn{
+  font-size: 2.0rem;
+  margin-left: 1.7rem;
+  cursor: pointer;
+  color: #fff;
+}
+
+#menu-btn:hover{
+  color: #222;
+}
+
+#menu-btn{
   display: none;
 }
 
