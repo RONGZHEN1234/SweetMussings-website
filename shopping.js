@@ -55,7 +55,7 @@ function ready(){
 
 //Buy Button
 function buyButtonClicked(){
-  alert("Your Order is placed");
+  alert("Your Order is placed. Wait for your delicious cake and pay it by Cash when it arrive! Hope you have a good day ^^");
   var cartcontent = document.getElementsByClassName("cart-content")[0]
   while (cartcontent.hasChildNodes()){
     cartcontent.removeChild(cartcontent.firstChild);
